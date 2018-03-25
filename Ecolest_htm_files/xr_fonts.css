@@ -1,0 +1,5 @@
+@import url(//fonts.googleapis.com/css?family=Arimo:regular,700&subset=latin);
+@import url(//fonts.googleapis.com/css?family=Architects+Daughter:regular&subset=latin);
+@font-face {font-family: 'Bell MT Regular';font-weight:normal;font-style:normal;src: url("XaraWDEmbeddedHTMLfont1.eot?") format("embedded-opentype"), url("XaraWDEmbeddedHTMLfont1.ttf") format("truetype"), local('Bell MT Regular'), local("BellMT");}
+@font-face {font-family: 'Bell MT Bold';font-weight:700;font-style:normal;src: url("XaraWDEmbeddedHTMLfont2.eot?") format("embedded-opentype"), url("XaraWDEmbeddedHTMLfont2.ttf") format("truetype"), local('Bell MT Bold'), local("BellMT");}
+@font-face {font-family: 'Georgia Regular';font-weight:normal;font-style:normal;src: url("XaraWDEmbeddedHTMLfont3.eot?") format("embedded-opentype"), url("XaraWDEmbeddedHTMLfont3.ttf") format("truetype"), local('Georgia Regular'), local("Georgia");}
